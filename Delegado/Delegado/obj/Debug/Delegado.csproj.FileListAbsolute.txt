@@ -1,0 +1,10 @@
+D:\repositorios\POO\Delegado\Delegado\bin\Debug\Delegado.exe.config
+D:\repositorios\POO\Delegado\Delegado\bin\Debug\Delegado.exe
+D:\repositorios\POO\Delegado\Delegado\bin\Debug\Delegado.pdb
+D:\repositorios\POO\Delegado\Delegado\obj\Debug\Delegado.csproj.AssemblyReference.cache
+D:\repositorios\POO\Delegado\Delegado\obj\Debug\Delegado.csproj.SuggestedBindingRedirects.cache
+D:\repositorios\POO\Delegado\Delegado\obj\Debug\Delegado.Properties.Resources.resources
+D:\repositorios\POO\Delegado\Delegado\obj\Debug\Delegado.csproj.GenerateResource.cache
+D:\repositorios\POO\Delegado\Delegado\obj\Debug\Delegado.csproj.CoreCompileInputs.cache
+D:\repositorios\POO\Delegado\Delegado\obj\Debug\Delegado.exe
+D:\repositorios\POO\Delegado\Delegado\obj\Debug\Delegado.pdb

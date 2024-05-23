@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33529.622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HERENCIA_2", "HERENCIA_2\HERENCIA_2.csproj", "{74488759-FBC7-4FE4-B7A2-D831A7B03CA4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74488759-FBC7-4FE4-B7A2-D831A7B03CA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74488759-FBC7-4FE4-B7A2-D831A7B03CA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74488759-FBC7-4FE4-B7A2-D831A7B03CA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74488759-FBC7-4FE4-B7A2-D831A7B03CA4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D3FEE34-1D00-426A-9B02-A8537F5790C4}
+	EndGlobalSection
+EndGlobal
